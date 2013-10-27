@@ -1,1 +1,12 @@
-This is a collection of the lessons I completed while learning programming with Learn Python the Hard Way.  I thoroughly enjoyed and was inspired by this book, especially (as the home page says) that it taught '...a lot more than the basics of programming, and Python. It teaches important life skills in every facet of life: attention to detail, persistence & that dedicated practice and application lead to results.'  I highly recommend this book to anyone who wants to learn the mentality and peripheral skills needed to be a solid programmer.  And if you do the extra credit, you'll learn a lot of hte basics of Python also.  Oh, and it's not really "hard".  It's only hard because you have to do things that are annoying, like type in all the exercises, go out to the internet to proactively seek information and solutions, and attempt to figure things out before the author tells you the answer.  It's actually easier in many ways because it removes a lot of the jargon, which makes for a clear head.
+This is a repository of exercises and classes that I've done / am doing to continually sharpen my chops.
+
+## License Info
+The code in this repository should be considered "read only", in that it's here to show you what I've worked on, and hopefully inspire you to learn more on your own.  These answers aren't here for you to copy paste, and there's really nothing here for you to expand on or modify.
+
+Furthermore, some of the code in this repository is taken from the associated books / courses.  In those cases, the code is licensed under the original authors work, and nothing should be assumed about the license on that code.  If you plan to do anything with it, please see the original sources for license information.
+
+### Current Books / Courses in this repo
+"Learn Python the Hard Way" -- http://learnpythonthehardway.org
+"Introduction to Databases", Coursera -- https://www.coursera.org/course/db
+
+

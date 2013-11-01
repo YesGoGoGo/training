@@ -8,5 +8,5 @@ Furthermore, some of the code in this repository is taken from the associated bo
 ### Current Books / Courses in this repo
 "Learn Python the Hard Way" -- http://learnpythonthehardway.org  (Completed 4/12)  
 "Introduction to Databases", Coursera -- https://www.coursera.org/course/db (In Progress 10/27/13)
-
+"Coding Bat" -- http://codingbat.com/ (In Progress 10/30/13)
 
